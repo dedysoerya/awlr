@@ -1,7 +1,7 @@
 awlr
 ====
 
-awlr pusda
+awlr
 
 ### About
 
